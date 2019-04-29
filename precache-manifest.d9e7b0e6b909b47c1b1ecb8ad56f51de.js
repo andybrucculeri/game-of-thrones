@@ -4,6 +4,10 @@ self.__precacheManifest = [
     "url": "/game-of-thrones/static/media/got.200f5e3c.png"
   },
   {
+    "revision": "8e2f468423b1c24d6971adf4081b4abc",
+    "url": "/game-of-thrones/static/media/crop.8e2f4684.png"
+  },
+  {
     "revision": "f5fbe5b23a6b9ecd64b27bc0c265a1e8",
     "url": "/game-of-thrones/static/media/characters.f5fbe5b2.png"
   },
@@ -16,19 +20,19 @@ self.__precacheManifest = [
     "url": "/game-of-thrones/static/js/runtime~main.a581667f.js"
   },
   {
-    "revision": "7bd46748137cb19d09e1",
-    "url": "/game-of-thrones/static/js/main.0c909000.chunk.js"
+    "revision": "6025cec5715a7ef42d71",
+    "url": "/game-of-thrones/static/js/main.38027ad0.chunk.js"
   },
   {
-    "revision": "4fbd73b7665f10122e55",
-    "url": "/game-of-thrones/static/js/2.104baa16.chunk.js"
+    "revision": "cdcbd6eb40f38fff6df3",
+    "url": "/game-of-thrones/static/js/2.75130dc4.chunk.js"
   },
   {
-    "revision": "7bd46748137cb19d09e1",
+    "revision": "6025cec5715a7ef42d71",
     "url": "/game-of-thrones/static/css/main.b14587e5.chunk.css"
   },
   {
-    "revision": "5439cb9be69c8ce66df33f5c89456ca6",
+    "revision": "eac5c210349c49e04f52b72f3211c634",
     "url": "/game-of-thrones/index.html"
   }
 ];
