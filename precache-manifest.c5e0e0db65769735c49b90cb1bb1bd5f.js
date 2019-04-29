@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/game-of-thrones/static/js/runtime~main.a581667f.js"
   },
   {
-    "revision": "4d33d1f735721ac2e531",
-    "url": "/game-of-thrones/static/js/main.d33a6fe9.chunk.js"
+    "revision": "7bd46748137cb19d09e1",
+    "url": "/game-of-thrones/static/js/main.0c909000.chunk.js"
   },
   {
     "revision": "4fbd73b7665f10122e55",
     "url": "/game-of-thrones/static/js/2.104baa16.chunk.js"
   },
   {
-    "revision": "4d33d1f735721ac2e531",
-    "url": "/game-of-thrones/static/css/main.7ab2aa78.chunk.css"
+    "revision": "7bd46748137cb19d09e1",
+    "url": "/game-of-thrones/static/css/main.b14587e5.chunk.css"
   },
   {
-    "revision": "ff3288de100fee3766bf746bf1933bed",
+    "revision": "5439cb9be69c8ce66df33f5c89456ca6",
     "url": "/game-of-thrones/index.html"
   }
 ];
