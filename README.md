@@ -1,2 +1,2 @@
 # game-of-thrones
-Game of Thrones Dadta Visualization 
+Game of Thrones Data Visualization 
